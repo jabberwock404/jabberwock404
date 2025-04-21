@@ -1,4 +1,4 @@
-## Hi! <a href="https://emoji.gg/emoji/68132-baijuu"><img src="https://emoji.gg/emoji/68132-baijuu" width="40px" height="32px" alt="miku"></a>
+## Kumusta! <a href="https://emoji.gg/emoji/5226_miku"><img src="https://cdn3.emoji.gg/emojis/5226_miku.png" width="40px" height="32px" alt="miku"></a>
 I'm a Software Engineer working at 84.51, Kroger's data analytics division!
 I am a life long student and am constantly learning new things whenever possible!
 When not coding, I like video games, anime, sports, and enjoying time with family/friends 
