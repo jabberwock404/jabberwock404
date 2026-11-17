@@ -1,5 +1,5 @@
 ## Kumusta! <a href="https://emoji.gg/emoji/1564-momijiwave"><img src="https://cdn3.emoji.gg/emojis/1564-momijiwave.png" width="64px" height="64px" alt="MomijiWave"></a>
-I'm a Software Engineer working at 84.51, Kroger's data analytics division! \
+I'm a Software Engineer working at who loves space! \
 I am a life long student and am constantly learning new things whenever possible! \
 When not coding, I like video games, anime, sports, and enjoying time with family/friends 
 
